@@ -1,0 +1,8 @@
+3
+../bin/maze1.obj
+../bin/brick_texture.jpg
+../bin/sphere.obj
+../bin/glass.jpg
+../bin/box.obj
+../bin/wood.jpg
+
